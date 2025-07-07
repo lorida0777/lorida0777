@@ -1,6 +1,6 @@
 # 👋 Bienvenue sur mon GitHub / Welcome to my GitHub
 
-## 🇫🇷 À propos de moi
+##  À propos de moi
 
 🎓 Je suis un passionné d’**Intelligence Artificielle**, de **Machine Learning** et de **science des données**. Mon objectif est de devenir **ingénieur en IA** ou **data scientist**.
 
@@ -30,7 +30,7 @@
 
 ---
 
-## 🇬🇧 About Me
+##  About Me
 
 🎓 I'm passionate about **Artificial Intelligence**, **Machine Learning**, and **Data Science**. My goal is to become an **AI Engineer** or **Data Scientist**.
 
