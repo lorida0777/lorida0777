@@ -30,5 +30,4 @@
 
 ---
 
-📬 *N’hésitez pas à explorer mes projets, à me contacter ou à collaborer !*  
 📬 *Feel free to explore my projects or reach out for collaboration!*
