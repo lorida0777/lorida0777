@@ -71,5 +71,5 @@ Feel free to explore my projects, star what you like, and connect for collaborat
 ---
 
 <p align="center">
-  <em>“Learning never exhausts the mind.” – Leonardo da Vinci</em>
+  <em>“The more I learn, the more I realize how much I don’t know.” – Albert Einstein</em>
 </p>
