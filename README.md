@@ -10,6 +10,14 @@
 
 ---
 
+<h1 align="center">💼 Portfolio Web - Lorida</h1>
+
+<p align="center">
+  <a href="https://lorida0777.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-En ligne-00ADB5?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio en ligne" />
+  </a>
+</p>
+
 ### 🧠 Skills & Tools
 
 **Languages:**  
