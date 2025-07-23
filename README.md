@@ -57,7 +57,7 @@
 
 > Coming soon: machine learning notebooks, web apps, interactive dashboards, and more.
 
-Stay tuned!
+Stay tuned! 💪
 
 ---
 
