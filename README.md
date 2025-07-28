@@ -66,6 +66,7 @@ Stay tuned! 💪
 Feel free to explore my projects, star what you like, and connect for collaborations.
 
 - ✉️ Email: [kantonotsiferana@gmail.com](mailto:kantonotsiferana@gmail.com)
+  [kantolorida@gmail.com](mailto:kantolorida@gmail.com)
 - 🐙 GitHub: [github.com/lorida0777](https://github.com/lorida0777)
 
 ---
